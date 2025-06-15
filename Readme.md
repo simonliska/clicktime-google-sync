@@ -11,6 +11,7 @@ When you end up having a full calendar of events where on the end of a day you n
 
 ## ToDo
 Probably there will be edge cases which needs to be fixed.
+- Notification into Google chat / Slack instead of default one.
 
 ## Notes
 - Now it track task for first link in the calendar description.
